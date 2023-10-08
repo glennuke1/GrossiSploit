@@ -1,0 +1,5 @@
+local explosion = Instance.new("Explosion")
+explosion.BlastRadius = 60
+explosion.ExplosionType = 0
+explosion.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+explosion.Parent = workspace

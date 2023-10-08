@@ -1,0 +1,10 @@
+// Main Color
+255,255,255
+// Top Bar Color
+255,255,255
+// Side Panel Color
+255,255,255
+//Main Buttons Color (inject button, execute button, etc)
+255,255,255
+//Textbox Picture
+URL>

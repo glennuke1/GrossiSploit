@@ -1,0 +1,4 @@
+Note: Only put themes in the Themes folder
+
+1. Switch out the RGB values for the ones you want
+2. Add your image url after the "URL>" (Optional)
